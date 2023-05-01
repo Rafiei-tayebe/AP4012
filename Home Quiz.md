@@ -1,8 +1,8 @@
-+web scraping
--- maktabkhoone
---- price, duration, comment (dataframe)
--- twitter
---- follwoings of a  user
++ web scraping
+ + maktabkhoone
+ + price, duration, comment (dataframe)
++ twitter
+ + follwoings of a  user
 
 + multithread file search --> multithread word search in text files
  
